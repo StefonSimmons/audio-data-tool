@@ -1,8 +1,6 @@
 # Audio-Data-Tool
 
 <br/>
-<img src="https://media.giphy.com/media/l0MYz6wr2YZQ1fjuo/giphy.gif" alt="hiphop" style= "border-radius: 90px; width: 250px"/>
-
 
 - [Client](#Tuff-City-Records)
 - [App Overview](#Tuff-City-App)
