@@ -140,6 +140,13 @@ https://elements.heroku.com/addons/heroku-postgresql
   - unlimted rows
   - 64 GB
 
+### Storing Audio Files (mp3) Pricing
+
+https://aws.amazon.com/s3/pricing/
+- S3 Standard $3-4/mo
+  - Storing 35,000 songs @4.5 MB / song.
+  - ~$0.02 / GB
+
 ## Time Estimates
 
 | Task                               | Priority | Estimated Time | Time Invested | Actual Time |
