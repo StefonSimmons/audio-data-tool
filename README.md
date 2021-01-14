@@ -14,7 +14,6 @@
     - [ERD Model](#erd-model)
   - [Time Estimates](#time-estimates)
 - [Post-MVP](#post-mvp)
-- [Code Showcase](#code-showcase)
 - [Code Issues & Resolutions](#code-issues--resolutions)
 
 # Tuff-City-Records
@@ -71,7 +70,7 @@ Create a full-stack app with CRUD functionality and user authentication
 ### Wireframes
 
 Mobile View (via adobe)
-- https://xd.adobe.com/view/604de7e9-fd13-4d73-552a-7bbde87a9d16-167c/
+- https://xd.adobe.com/view/70619d8d-08e3-4831-5e66-875d23e23507-0650/
 <img src="./mobile-wireframe.png" alt="wireframe" style= "border-radius: 5px; width: 350px"/>
 
 
@@ -93,6 +92,8 @@ src
       |__ AdminHome.jsx
       |__ UserList.jsx
       |__ UserProfile.jsx
+      |__ ChangePassword.jsx
+      |__ UploadSongs.jsx
 |__ services/
       |__ apiConfig.js
       |__ auth.js
